@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-new-file",
+  "version": "1.0.0",
+  "description": "this is a blog we created by using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibunnish/nodejs2-file.git"
+  },
+  "author": "habibunnisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habibunnish/nodejs2-file/issues"
+  },
+  "homepage": "https://github.com/habibunnish/nodejs2-file#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2"
+  }
+}
